@@ -6,8 +6,7 @@ This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
 **Edition** is perfect for documenting your product, application or service.
 It's populated with example content to give you some ideas.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+The Design System by Fannie Mae creates a unified experience that emobides a consistent look and feel. Here, you may find a central repository for both internal and external teams to build consumer-grade digital products in a scalable and repeatable way. 
 
 > [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
 
