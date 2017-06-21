@@ -1,6 +1,6 @@
 ---
-title: Phone
-category: Contact Syncing
+title: Buttons
+category: Components
 order: 2
 ---
 
