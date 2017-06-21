@@ -11,6 +11,5 @@ Designed with our core Design Principles in mind, our color palette communicates
 To sync your contacts:
 
 1. Open your *User Settings*
-2. Select the **Connect Facebook** button
-3. Authorise ChatApp
+
 
