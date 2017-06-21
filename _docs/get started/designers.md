@@ -4,9 +4,7 @@ category: Get Started
 order: 1
 ---
 
-### Designers
-
-##### Step 1
+#### Step 1
 
 Download the Visual Design kit.
 

@@ -8,7 +8,6 @@ Product documentation template for Jekyll. Learn Jekyll with step-by-step tutori
 * Full text search
 * Pre-styled components
 * Auto-generated navigation based on category
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
 * Change log
 * RSS/Atom feed
 * SEO tags
@@ -17,7 +16,7 @@ Product documentation template for Jekyll. Learn Jekyll with step-by-step tutori
 ## Setup
 
 1. Add your site and author details in `_config.yml`.
-2. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+2. See your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
 
 ## Develop
 
