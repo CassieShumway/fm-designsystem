@@ -20,13 +20,13 @@ Getting started is quick and easy. This document serves:
 
 ### Designers
 
-## Step 1
+#### Step 1
 
 Download the Visual Design kit.
 
 Go to the FDS Toolkit repo and click on the latest version of the Design Kit. Click the “View Raw” link to begin downloading the kit.
 
-## Step 2
+#### Step 2
 
 Open the Kit in Sketch
 
@@ -40,7 +40,7 @@ Open the Kit in Sketch
 
 > [Don't have Sketch?](http://example.com/signup) No worries, you can preview the Design System by downloading our PDF [CDXsharepoint.com](http://cdxsharepoint.com/).
 
-## Step 3
+#### Step 3
 
 How to Use the Kit
 
@@ -49,7 +49,7 @@ Once you open the kit in Sketch, we provide a collection of symbols and text sty
 
 ### Developers
 
-## Step 1
+#### Step 1
 
 Download the repository
 
