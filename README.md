@@ -1,8 +1,6 @@
 # Fannie Mae Design System
 
-Product documentation template for Jekyll. 
-
-Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
+Product documentation template for Jekyll. Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
 
 ## Features
 
