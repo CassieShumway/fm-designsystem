@@ -1,7 +1,7 @@
 ---
 title: Labels
 category: Components
-order: 3
+order: 6
 ---
 
 Designed with our core Design Principles in mind, our color palette communicates trust and simplicity while meeting web accessibility standards that are 508 compliant. 
