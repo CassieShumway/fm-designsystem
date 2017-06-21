@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-The Design System by Fannie Mae, called FDS, creates a unified experience that embodies a consistent look and feel. FDS providesv a central repository for both internal and external teams to build consumer-grade digital products in a scalable and repeatable way. 
+The Design System by Fannie Mae, called FDS, creates a unified experience that embodies a consistent look and feel. FDS provides a central repository for both internal and external teams to build consumer-grade digital products in a scalable and repeatable way. 
 
 FDS is a living, breathing document that contains all of our visual assets (components, iconography, color palettes, grids, etc) and code.
 
