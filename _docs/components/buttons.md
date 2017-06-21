@@ -4,15 +4,12 @@ category: Components
 order: 2
 ---
 
-Sync your phone contacts with ChatApp. ChatApp saves your phone contacts and adds anyone with an email address to your contact list!
+Developed with our core Design Principles in mind, our color palette communicates trust and simplicity while meeting web accessibility standards that are 508 compliant. 
 
-> Syncing contacts with your phone restores any previously synced contacts.
+### Primary
 
-To sync your contacts:
+This palette’s primary colors are dark blue and light gray. Primary colors may not be adjusted. 
 
-1. Open your *User Settings* on your phone app
-2. Select the **Sync Contacts** button
-3. Authorise ChatApp permissions
-4. Select some or all of your contacts
 
-![](//placehold.it/800x600)
+
+> See a typo? Uh oh, how embarrassing! Please let us know what we can fix by contacting us at [CDX@fanniemae.com](a href="mailto:cdx@fanniemae.com).

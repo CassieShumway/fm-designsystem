@@ -3,7 +3,7 @@ title: Media support
 type: major
 ---
 
-ChatApp introduces media support! Send images, videos and documents to your contacts.
+FDS introduces media support! Send images, videos and documents through your select components.
 
 **Features:**
 
